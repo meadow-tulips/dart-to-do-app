@@ -1,1 +1,1 @@
-An absolute bare-bones web app.
+To do web app with dart.
